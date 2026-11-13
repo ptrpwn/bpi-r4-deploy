@@ -6,6 +6,7 @@
 WIFI_PATCHES="
 	mac80211/0999-fix-mac80211-btwt-ap-mode-he-btwt-supported.patch
 	hostapd/0264-wpa_s-add-btwt-join-command.patch
+	mt76/100-wifi-mt76-mt7996-Use-tx_power-from-default-fw-if-EEP.patch
 	mt76/9999-w-mt7996-per-band-leds.patch
 	mt76/9999-w-mt76-share-tpt-led-trigger.patch
 "
